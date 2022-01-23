@@ -1,0 +1,97 @@
+
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.section-heading {
+  padding-bottom: 2%;
+}
+
+#title {
+  background-color: #769FCD;
+  color : #FFF;
+}
+
+#title .container-fluid {
+  padding: 1% 10%;
+}
+
+#about {
+  padding: 10%;
+}
+
+
+#skills {
+  background-color: #F7FBFC;
+  color : #04293A;
+}
+
+#skills .container-fluid {
+  padding: 5% 10%;
+}
+
+.skill-box {
+  padding: 2%;
+}
+
+.skill-title {
+  padding-top:2%;
+}
+
+#projects {
+  background-color: #D6E6F2;
+  color : #04293A;
+}
+
+#projects .container-fluid {
+  padding: 5% 10%;
+}
+
+.card {
+  margin:3%;
+  border-radius: 30px;
+}
+
+.card-body {
+  padding:3%;
+}
+
+.card-link {
+
+  color:#769FCD;
+}
+
+#contact {
+  background-color: #B9D7EA;
+  color : #04293A;
+}
+
+#contact .container-fluid {
+  padding: 5% 10%;
+}
+
+
+form {
+  text-align: left;
+}
+
+#contact a {
+  text-decoration: none;
+  color: #04293A;
+}
+
+#contact a:hover {
+  color:#FFF;
+}
+
+#contact .btn-primary {
+  background-color:  #769FCD;
+  color: #FFF;
+
+}
+
+#contact .btn-primary:hover {
+  background-color:  #FFF;
+  color: #04293A;
+}
